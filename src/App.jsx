@@ -5,7 +5,7 @@ import TodoItems from "./ToDoItems";
 import Welcome from "./WelcomeMsg";
 import Item from "./Items";
 
-
+// Didn't have a backend cause i was trying to master react at that time. 
 const App = ()=>{
   
   const [Items, setToDoItems] = useState([]);
